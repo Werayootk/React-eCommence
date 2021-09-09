@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d3868960.chunk.css",
+    "main.js": "/static/js/main.95da21ad.chunk.js",
+    "main.js.map": "/static/js/main.95da21ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f8c9dd52.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f8c9dd52.js.map",
+    "static/js/2.96217c0a.chunk.js": "/static/js/2.96217c0a.chunk.js",
+    "static/js/2.96217c0a.chunk.js.map": "/static/js/2.96217c0a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e059c18de8c6bf9f195c7736c8c6157e.js": "/precache-manifest.e059c18de8c6bf9f195c7736c8c6157e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d3868960.chunk.css.map": "/static/css/main.d3868960.chunk.css.map",
+    "static/js/2.96217c0a.chunk.js.LICENSE.txt": "/static/js/2.96217c0a.chunk.js.LICENSE.txt",
+    "static/media/logo-PNG.png": "/static/media/logo-PNG.01260383.png",
+    "static/media/shopMens.jpg": "/static/media/shopMens.19190d05.jpg",
+    "static/media/shopWomens.jpg": "/static/media/shopWomens.c9c60ae5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8c9dd52.js",
+    "static/js/2.96217c0a.chunk.js",
+    "static/css/main.d3868960.chunk.css",
+    "static/js/main.95da21ad.chunk.js"
+  ]
+}
