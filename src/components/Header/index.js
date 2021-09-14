@@ -31,7 +31,7 @@ const Header = props => {
       <div className="wrap">
         <div className="logo">
           <Link to="/">
-            <img src={Logo} alt="Shop" />
+          Fashion shopping 2021
           </Link>
         </div>
 
